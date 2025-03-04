@@ -1,0 +1,160 @@
+.banner-bg{
+    background-image: url(images/banner/banner2.png);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    /* position: relative; */
+    padding-right: 100px;
+    padding-top: 216px;
+}
+
+.banner-content{
+    margin: 0px 231px 0 844px;
+    text-align: right;
+}
+
+.banner-heading{
+    font-size: 65px;
+    font-weight: bold;
+}
+
+.banner-description{
+    font-size: 16px;
+}
+
+.btn-primary{
+    color: white;
+    background-color: #F15B22;
+    border: none;
+    padding: 20px 25px;
+    border-radius: 5px;
+}
+
+.section-title{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.section-description{
+    font-size: 16px;
+}
+
+.fails{
+    display: flex;
+    width: 1072px;
+    margin: 0 auto;
+}
+
+.fail-content{
+    margin-top: 369px;
+}
+
+.fail-content ul li{
+    list-style: none;
+}
+
+.fails img{
+    margin-right: 87px;
+}
+
+main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+
+.plan-icon{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.planner{
+    width: 1072px;
+    margin: 0 auto;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.task-description{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.task-info{
+    font-size: 25px;
+}
+
+.mindset-image{
+    background-image: url(images/gradient3.png), url(images/watch.png);
+    background-size: cover;
+    height: 300px;
+    width: 1140px;
+    margin: 0 auto;
+    /* background-position: center, left; */
+}
+
+.mindset-intro{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 59px 617px 0px 64px;
+}
+
+.btn-secondary{
+    color: #F15B22;
+    background-color: white;
+    padding: 20px 36px;
+    border-radius: 5px;
+    border: none;
+    margin-left: 64px;
+}
+
+.footer-content{
+    display: flex;
+    color: white;
+    align-items: center;
+    margin: 0 auto;
+}
+
+footer{
+    margin-top: 130px;
+    background-color: #151414;
+}
+
+.footer-future{
+    margin: 130px 0 130px 230px;
+    width: 485px;
+    height: 317px;
+}
+
+.footer-subscribe{
+    margin: 130px 229px 243px 331px;
+    text-align: left;
+    align-items: center;
+}
+
+.footer-future-title{
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.footer-subscribe-title{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.footer-subscribe input{
+    padding: 21px 158px 21px 21px;
+    margin-bottom: 16px;
+}
+
+.footer-subscribe button{
+    margin-right: 383px;
+}
+
+.left{
+    margin-left: 0;
+}
